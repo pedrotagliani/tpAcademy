@@ -1,0 +1,10 @@
+tpAcademy Project - Development Branch
+Branch: feature-info
+
+This file serves as a placeholder for initial project documentation. 
+The project is initialized using NestJS, following the modular architecture standards.
+
+To-do list:
+- Set up database connection.
+- Define Student and Course modules.
+- Implement authentication.
