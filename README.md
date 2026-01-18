@@ -95,7 +95,7 @@ Kamil Myśliwiec
 
 - Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
 - Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- X - [@nestframework](https://x.com/nestframework)
 
 ## License
 
